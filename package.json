@@ -1,0 +1,11 @@
+{
+  "name": "zadanie_3",
+  "version": "1.0.0",
+  "main": ".src/index.js",
+  "license": "MIT",
+  "repository": "https://github.com/denissokolow/zadanie_3.git",
+  "dependencies": {
+    "goss_concat": "^1.0.3",
+    "node": "^13.11.0"
+  }
+}
